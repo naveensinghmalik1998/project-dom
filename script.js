@@ -1,0 +1,10 @@
+let h1 = document.getElementById("head1");
+h1.style.color = "blue";
+h1.style.backgroundColor = "yellow";
+h1.style.margin ="20px";
+h1.style.padding = "10px";
+h1.style.height = "200px";
+h1.style.width = "300px";
+h1.style.fontWeight = "bold";
+h1.style.fontSize = "18px";
+console.log(h1);
